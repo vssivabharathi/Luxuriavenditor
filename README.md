@@ -1,13 +1,13 @@
-#This my e-commerce website
+# This my e-commerce website
 ##Language used:
->HTML
->CSS
->JAVASCRIPT
->PYTHON
->MYSQL
+- HTML
+- CSS
+- JAVASCRIPT
+- PYTHON
+- MYSQL
 
-##Framework used:
->Bootstrap
->Django
+## Framework used:
+- Bootstrap
+- Django
 
 I have not completed the project. It still in progress...
