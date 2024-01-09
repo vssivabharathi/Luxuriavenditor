@@ -1,5 +1,5 @@
 # This my e-commerce website
-##Language used:
+## Language used:
 - HTML
 - CSS
 - JAVASCRIPT
